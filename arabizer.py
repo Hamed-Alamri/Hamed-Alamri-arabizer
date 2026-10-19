@@ -12,7 +12,7 @@ from pathlib import Path
 
 APP_NAME = "Arabizer"
 APP_VERSION = "0.2.0"
-REPO = "Hamed-Alamri/arabizer"
+REPO = "Hamed-Alamri/Hamed-Alamri-arabizer"
 BRANCH = "main"
 RAW_BASE = f"https://raw.githubusercontent.com/{REPO}/{BRANCH}/"
 CONFIG_DIR = Path.home() / ".arabizer"
