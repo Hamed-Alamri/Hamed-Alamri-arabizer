@@ -1,0 +1,6 @@
+[
+ {"source":"Fuck you!","target":"اللعنة عليك!","category":"insult","context":"إهانة مباشرة","notes":"صياغة فصحى غير حرفية؛ راجع السياق قبل تعميمها.","approved":true,"case_sensitive":false},
+ {"source":"What the hell?!","target":"ما هذا بحق الجحيم؟!","category":"exclamation","context":"تعجب أو استنكار","notes":"صياغة فصحى مع الحفاظ على النبرة.","approved":true,"case_sensitive":false},
+ {"source":"You're screwed.","target":"لقد انتهى أمرك.","category":"idiom","context":"تهديد أو تحذير","notes":"ترجمة اصطلاحية وليست حرفية.","approved":true,"case_sensitive":false},
+ {"source":"Get out of here!","target":"اخرج من هنا!","category":"command","context":"أمر بالمغادرة","notes":"قد تعني عدم التصديق في سياقات أخرى؛ راجع السياق.","approved":true,"case_sensitive":false}
+]
