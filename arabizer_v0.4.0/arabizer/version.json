@@ -1,0 +1,109 @@
+{
+ "version": "0.4.0",
+ "files": [
+  {
+   "path": "arabizer.py",
+   "sha256": "72a8b20a105829b000edb0eb7cca5ccce887e9d4efeeb76b3a3c6d34f1888a86"
+  },
+  {
+   "path": "dsar_reader.py",
+   "sha256": "921742b9e16f207023ab32799740e21245042d293344a422a06d6e08a635525c"
+  },
+  {
+   "path": "check_install.py",
+   "sha256": "44f4a412a504a2e60554e1e4b4e6e00e18061cd493f773ee683df6e2f1f599c2"
+  },
+  {
+   "path": "arabizer_core/__init__.py",
+   "sha256": "ba4578cf7512e184e9765397fe759925bdfb81cede245a98872c9e3a16e174f4"
+  },
+  {
+   "path": "arabizer_core/checks.py",
+   "sha256": "f6f35d73bce849565563fc9b39f8f1f251b01d6d063d89072158ef662a6960b5"
+  },
+  {
+   "path": "arabizer_core/config.py",
+   "sha256": "2d63b3a750342ff2f32c6856f84b7e02ffff034f99b62347da0e383ce9edcc75"
+  },
+  {
+   "path": "arabizer_core/constants.py",
+   "sha256": "cdf06b6dd87e29f3c08986952f732fb16dd483b853ffce23dba02627bd80b417"
+  },
+  {
+   "path": "arabizer_core/gui.py",
+   "sha256": "73248b9388ea35c6d69990a21cf8f5c96dcac87cd7420c78e9d43f3c16d9a6a4"
+  },
+  {
+   "path": "arabizer_core/library.py",
+   "sha256": "4eebc4073f791fef185d1a9a2e4c117205abaf8c05deaf86f3bf51ef1f6ded7d"
+  },
+  {
+   "path": "arabizer_core/patcher.py",
+   "sha256": "647405d8b1f835d851b64d7613840f944cb26639e2b8fe4f0d7f49149cdecf7d"
+  },
+  {
+   "path": "arabizer_core/report.py",
+   "sha256": "614208d9ed88cc1f9800b0cf4a05cd823bf6c1a8fdf2e7a29fece008007bb74a"
+  },
+  {
+   "path": "arabizer_core/scan.py",
+   "sha256": "b1ced7d6b2ce588f6ddac5853d3b0693d72cb02ae19e4231cd0f3960960a7d3e"
+  },
+  {
+   "path": "arabizer_core/updater.py",
+   "sha256": "b6648d63ab946ea5e73bf75f954d87a46e697101300d45f8b4a026713e80a2c9"
+  },
+  {
+   "path": "arabizer_core/util.py",
+   "sha256": "425a7ee6b4a5119a3ef1588b0205526b4e4c8b88c0b00b2ce266c87bf4b9682f"
+  },
+  {
+   "path": "ndformats/__init__.py",
+   "sha256": "b2cf053b6593059cff4f51bc831f6923e02a3d4fb8c0792d0254b168bdf18060"
+  },
+  {
+   "path": "ndformats/__main__.py",
+   "sha256": "7afeadd4522552160b4980dc798d62c6351e23026023c4dc3f40ef0a286a8f3d"
+  },
+  {
+   "path": "ndformats/analyze.py",
+   "sha256": "a6380610bec58691c1007aa739fb90c2b494aee3439a932a7020c7613a82e3a5"
+  },
+  {
+   "path": "ndformats/cli.py",
+   "sha256": "7c649d31a29e92ab7e1feed62d0edba57c94dca860a7d977c40eb6942f708e2f"
+  },
+  {
+   "path": "ndformats/dsar.py",
+   "sha256": "7e4e3ba1f8bb51f633ec1114bf1b26350eb0547c122f3954c630c4eb843708ca"
+  },
+  {
+   "path": "ndformats/errors.py",
+   "sha256": "a00dec946c79f5bd0833dda223b9de16b1e8f88e20c6b4674533e3b73db39f21"
+  },
+  {
+   "path": "ndformats/lz4block.py",
+   "sha256": "09914cdcbbf390a38e15debbdf76d2be52c5ebfe97dd8841088c827d1c5bc01f"
+  },
+  {
+   "path": "ndformats/progress.py",
+   "sha256": "9d418a62730e5aa23ea7b3a0d1d14b96c4c4b14a278bc17868a8317d4453f42d"
+  },
+  {
+   "path": "ndformats/psar.py",
+   "sha256": "5e41ee65ea3269aa96d8715843e19fc946b3fa48f4d5ddb8ce107ef924ef760d"
+  },
+  {
+   "path": "ndformats/source.py",
+   "sha256": "3c0071238457602c450592aef6df67a4d11fc26ca6c7d6997eb19e455a26fa9c"
+  },
+  {
+   "path": "ndformats/unpack.py",
+   "sha256": "5cc1605be9fe7c8126913da42fae0971ea5288204f2bbc9534cfc3e2451e3010"
+  }
+ ],
+ "notes": "v0.4.0: هيكل مقسّم، شريط تقدم ديناميكي، مكتبة الألعاب المعرّبة، قارئ DSAR مع تحقق",
+ "released": "2026-10-19",
+ "file": "arabizer.py",
+ "sha256": "72a8b20a105829b000edb0eb7cca5ccce887e9d4efeeb76b3a3c6d34f1888a86"
+}
