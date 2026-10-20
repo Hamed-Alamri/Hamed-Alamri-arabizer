@@ -1,0 +1,20 @@
+name: Arabizer Engine Tests
+
+on:
+  push:
+    branches: [main, arabizer-rebuild-v1]
+  pull_request:
+  workflow_dispatch:
+
+jobs:
+  unit-tests:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Check out repository
+        uses: actions/checkout@v4
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+      - name: Run engine tests
+        run: python -m unittest discover -s tests -v
